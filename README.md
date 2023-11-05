@@ -2,17 +2,18 @@
 This bloxflip predictor has been published a while back for people who paid for it. We decided to take the paid version and turn it free for the people!
 
 # Instructions:
-Download the folder
-unzip the folder
-and open the file BloxflipPred
+1. Download the folder
+2. unzip the folder
+3. and open the file BloxflipPred
 
 
 This will then give you instructions on what to do next:
 
-We include:
-- mines
-- crash
-- towers
-- roulette
+# We include:
+- Mines
+- Crash
+- Towers
+- Roulette
 
-- Good luck, have a good day!
+# Have fun!
+- Bloxflip is rigged! This will not be 100% accurate. 
